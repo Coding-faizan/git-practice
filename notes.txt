@@ -1,2 +1,3 @@
 hello git 
 change for second commit
+change for fast forward merge
